@@ -5,7 +5,7 @@ date: 2099-12-31 23:59:59
 **Name:Kohei TAKATA**
 
 Software Developer in Japan.
-Interested in Node.js(io.js), Golang, Java, JS tools of frontend
+Interested in Node.js(io.js), Golang, Java, elixir, JS tools of frontend
 
 ---
 
