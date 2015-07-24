@@ -15,7 +15,7 @@ GitHub:[tako-black](https://github.com/tako-black)
 
 twitter:[@tako_black_](https://twitter.com/tako_black_)
 
-slideshare:http://www.slideshare.net/ssuser375b1b/presentations
+Speaker Deck:https://speakerdeck.com/takoblack
 
 Hatena Blog:http://tako-black.hatenablog.com/
 
