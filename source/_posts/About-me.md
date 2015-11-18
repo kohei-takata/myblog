@@ -11,15 +11,15 @@ Interested in Node.js(io.js), Golang, Java, elixir, JS tools of frontend
 
 # SNS
 
-GitHub:[tako-black](https://github.com/tako-black)
+GitHub:[kohei-takata](https://github.com/kohei-takata)
 
-twitter:[@tako_black_](https://twitter.com/tako_black_)
+twitter:[@kohei_takata](https://twitter.com/kohei_takata)
 
-Speaker Deck:https://speakerdeck.com/takoblack
+Speaker Deck:https://speakerdeck.com/koheitakata
 
 Hatena Blog:http://tako-black.hatenablog.com/
 
-Qiita:http://qiita.com/tako-black
+Qiita:http://qiita.com/kohei-takata
 
 Gmail:kt.koheitakata@gmail.com
 

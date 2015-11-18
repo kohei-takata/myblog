@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://tako-black.github.io/
+url: http://kohei-takata.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -68,6 +68,6 @@ theme: apollo
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/tako-black/tako-black.github.io
+  repo: https://github.com/kohei-takata/kohei-takata.github.io
   branch: master
   message: hexo deploy
