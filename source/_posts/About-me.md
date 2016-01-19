@@ -24,7 +24,6 @@ Qiita:http://qiita.com/kohei-takata
 Gmail:kt.koheitakata@gmail.com
 
 # Translation to Japanese
-[Front-end-Dev-Weekly-JP](http://front-end-dev-weekly-jp.github.io/
- )
+[Front-end-Dev-Weekly-JP](http://front-end-dev-weekly-jp.github.io/Front-end-Dev-Weekly-JP/)
 
 ---
